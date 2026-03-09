@@ -1,1 +1,26 @@
 
+🌟 PROJECT 1: Language Translation Tool
+📝 Description
+A powerful language translation application that supports multiple languages with text-to-speech functionality. Uses free translation APIs to provide accurate translations between 20+ languages.
+
+✨ Features
+🌍 20+ Languages Supported (English, Spanish, French, German, Japanese, etc.)
+🔊 Text-to-Speech - Listen to translations
+📋 Copy Functionality - One-click copy to clipboard
+🎨 Modern UI - Clean, user-friendly interface
+⚡ Real-time Translation - Instant results
+🛠️ Technologies Used
+Python 3.11
+Streamlit - Web interface
+MyMemory API - Translation service
+gTTS - Text-to-Speech
+Requests - API calls
+🚀 How to Run
+cd "CodeAlpha_LanguageTranslationTool"
+streamlit run Translation_app.py
+💡 Usage Guide
+Select source language (from)
+Select target language (to)
+Enter text to translate
+Click "Translate".
+
