@@ -59,6 +59,10 @@ streamlit run Translation_app.py
 5. Use "Listen" button for audio
 6. Click "Copy" to copy translation
 
+
+### ScreenShot
+<img width="3360" height="2100" alt="image" src="https://github.com/user-attachments/assets/44434acf-8b1c-4606-8e11-b6a8abfcdd14" />
+
 ---
 
 # 🤖 PROJECT 2: FAQ Chatbot
@@ -99,6 +103,10 @@ streamlit run Chatbot_app.py
 - "How long is the internship?"
 - "Do I get a certificate?"
 - "What projects can I choose?"
+
+### ScreenShot
+<img width="3358" height="2038" alt="image" src="https://github.com/user-attachments/assets/ec5bde52-b7a0-4ae2-a532-1065eda12cb3" />
+
 
 ---
 
@@ -144,6 +152,11 @@ streamlit run musicGenerator_app.py
 - **Length** - Number of notes in melody
 - **Tempo** - Speed of playback (BPM)
 - **Complexity** - How varied the melody is
+
+### ScreenShot
+<img width="1680" height="1050" alt="Screenshot 2026-03-09 at 10 17 03 PM" src="https://github.com/user-attachments/assets/7de2ce6b-0c3d-43b0-b2fe-6b504e2e7377" />
+### Model training 
+<img width="1680" height="1050" alt="Screenshot 2026-03-09 at 9 55 03 PM" src="https://github.com/user-attachments/assets/e654cb6f-eb0b-4866-99eb-3f63c0b8741c" />
 
 ---
 
@@ -199,6 +212,10 @@ streamlit run ObjectDetection_final_fixed.py
 - Sports equipment
 - Food items
 - And many more (80+ classes)
+
+
+### ScreenShot
+<img width="1343" height="886" alt="Screenshot 2026-03-09 at 9 51 59 PM" src="https://github.com/user-attachments/assets/ee233812-a8a3-44a5-a34c-d968e1823c74" />
 
 ---
 
