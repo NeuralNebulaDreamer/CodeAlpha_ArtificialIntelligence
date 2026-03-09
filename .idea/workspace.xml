@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db8e1fd-7670-4530-8cca-21210897ef40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CodeAlpha_ArtificialIntelligence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeAlpha_FAQ Chatbot/Chatbot_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeAlpha_LanguageTranslationTool/Translation_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeAlpha_Music Generator/musicGenerator_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeAlpha_objectDetectionandTracking/ObjectDetectionandTracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeAlpha_objectDetectionandTracking/Video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python install_intel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python test_imports.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeAlpha_Music Generator/musicGenerator_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeAlpha_Music Generator/musicGenerator_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
